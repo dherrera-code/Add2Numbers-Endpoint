@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AddTwoNumberAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+331f0c7c5c289ab06af58d541c5ba93ca16dd205")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99a5541394108c02d733b7942caf2f2f0c767624")]
 [assembly: System.Reflection.AssemblyProductAttribute("AddTwoNumberAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AddTwoNumberAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
