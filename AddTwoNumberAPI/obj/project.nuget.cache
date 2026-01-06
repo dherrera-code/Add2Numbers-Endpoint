@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zehtCxr3qtE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elect\\OneDrive\\Documents\\CodeStack\\Level2\\Homework\\HerreraDMC3\\AddTwoNumberAPI\\AddTwoNumberAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elect\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\elect\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

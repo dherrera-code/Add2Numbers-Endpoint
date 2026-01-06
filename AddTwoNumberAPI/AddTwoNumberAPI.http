@@ -1,0 +1,6 @@
+@AddTwoNumberAPI_HostAddress = http://localhost:5168
+
+GET {{AddTwoNumberAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
