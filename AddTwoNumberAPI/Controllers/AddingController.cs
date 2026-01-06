@@ -13,7 +13,7 @@ namespace AddTwoNumberAPI.Controllers
     {
         [HttpPost]
         [Route("AddTwoNumber")]
-        public string AddNumbers(double firstNum, double secondNum)
+        public string AddNumbers(int firstNum, int secondNum)
         {
             return $"The sum of {firstNum} and {secondNum} is {firstNum + secondNum}.";
         }
